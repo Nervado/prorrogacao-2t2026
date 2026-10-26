@@ -1,0 +1,4 @@
+.DS_Store
+*.jsonl
+manifesto_sha256.csv.gz
+__pycache__/

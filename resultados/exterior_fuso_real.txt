@@ -1,0 +1,49 @@
+checagens: {'urnas': 1281, 'abertura_fora_7h30_8h30': 4, 'fim_depois_do_recebimento': 0}
+lacunas no exterior (eleitorado inteiro): 70 urnas, 2476 eleitores
+
+ corte  ext. fuso max  ext. fuso real    Brasil  A nacional
+  1700         47.229          13.730   191.849     205.579  (4.6% de D)
+  1703         46.265          13.259   165.472     178.731  (4.0% de D)
+  1749         34.086           7.491   159.967     167.458  (3.8% de D)
+  1821         26.664           5.838   158.560     164.398  (3.7% de D)
+  1844         21.649           5.068   157.792     162.860  (3.7% de D)
+  1900         18.422           4.639   157.530     162.169  (3.7% de D)
+
+Cidades com votos apos 17h de Brasilia (fuso real):
+  VANCOUVER              America/Vancouver              2113
+  LOS ANGELES            America/Los_Angeles            1699
+  BOSTON                 America/New_York               1321
+  SÃO FRANCISCO          America/Los_Angeles            1265
+  MIAMI                  America/New_York                673
+  ORLANDO                America/New_York                541
+  HOUSTON                America/Chicago                 503
+  NOVA YORK              America/New_York                468
+  TORONTO                America/Toronto                 459
+  MONTREAL               America/Toronto                 446
+  WASHINGTON             America/New_York                254
+  CHICAGO                America/Chicago                 252
+  MEXICO                 America/Mexico_City             232
+  SYDNEY                 Australia/Sydney                230
+  ATLANTA                America/New_York                191
+  HARTFORD               America/New_York                 91
+  LIMA                   America/Lima                     74
+  SÃO JOSÉ               America/Costa_Rica               65
+  OTTAWA                 America/Toronto                  64
+  PANAMA                 America/Panama                   54
+  SANTA CRUZ DE LA SIERRA America/La_Paz                   47
+  BOGOTÁ                 America/Bogota                   37
+  BARCELONA              Europe/Madrid                    32
+  QUITO                  America/Guayaquil                32
+  GUATEMALA              America/Guatemala                21
+  MANÁGUA                America/Managua                  16
+  TEGUCIGALPA            America/Tegucigalpa              14
+  BUENOS AIRES           America/Argentina/Buenos_Aires     13
+  CARACAS                America/Caracas                   9
+  SÃO SALVADOR           America/El_Salvador               9
+  COCHABAMBA             America/La_Paz                    7
+  LA PAZ                 America/La_Paz                    6
+  CAIENA                 America/Cayenne                   5
+  SÃO DOMINGOS           America/Santo_Domingo             5
+  KINGSTON-JAMAICA       America/Jamaica                   4
+  GEORGETOWN             America/Guyana                    1
+  ASSUNÇÃO               America/Asuncion                  1

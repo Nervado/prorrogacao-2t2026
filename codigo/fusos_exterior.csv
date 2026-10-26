@@ -1,0 +1,187 @@
+cidade,tz
+KATMANDU,Asia/Kathmandu
+ANCARA,Europe/Istanbul
+BUDAPESTE,Europe/Budapest
+CIUDAD DEL ESTE,America/Asuncion
+CONCEPCIÓN,America/Asuncion
+DACCA,Asia/Dhaka
+DAMASCO,Asia/Damascus
+GEORGETOWN,America/Guyana
+HAVANA,America/Havana
+LAGOS,Africa/Lagos
+LIMA,America/Lima
+LISBOA,Europe/Lisbon
+LONDRES,Europe/London
+LOS ANGELES,America/Los_Angeles
+MEXICO,America/Mexico_City
+OSLO,Europe/Oslo
+PARIS,Europe/Paris
+PRAIA,Atlantic/Cape_Verde
+RABAT,Africa/Casablanca
+RAMALLAH,Asia/Hebron
+SÃO JOSÉ,America/Costa_Rica
+CONACRI,Africa/Conakry
+PUERTO QUIJARRO,America/La_Paz
+BRUXELAS,Europe/Brussels
+CIDADE DO CABO,Africa/Johannesburg
+FRANKFURT,Europe/Berlin
+HAMAMATSU,Asia/Tokyo
+HARARE,Africa/Harare
+KUALA LUMPUR,Asia/Kuala_Lumpur
+MAPUTO,Africa/Maputo
+MIAMI,America/New_York
+PEQUIM,Asia/Shanghai
+SANTA CRUZ DE LA SIERRA,America/La_Paz
+TUNIS,Africa/Tunis
+SARAJEVO,Europe/Sarajevo
+IEREVAN,Asia/Yerevan
+MASCATE,Asia/Muscat
+BAKU,Asia/Baku
+TBILISI,Asia/Tbilisi
+SAINT JOHNS,America/Antigua
+BAGDÁ,Asia/Baghdad
+PYONGYANG,Asia/Pyongyang
+ST GEORGES DE LOYAPOCK,America/Cayenne
+ORLANDO,America/New_York
+ARGEL,Africa/Algiers
+BELGRADO,Europe/Belgrade
+BRIDGETOWN,America/Barbados
+IAUNDÊ,Africa/Douala
+ISLAMABADE,Asia/Karachi
+LOMÉ,Africa/Lome
+PANAMA,America/Panama
+GABORONE,Africa/Gaborone
+VARSÓVIA,Europe/Warsaw
+COBIJA,America/La_Paz
+TALIN,Europe/Tallinn
+LILONGUE,Africa/Blantyre
+AMÃ,Asia/Amman
+ATENAS,Europe/Athens
+BARCELONA,Europe/Madrid
+CARACAS,America/Caracas
+CHUY,America/Montevideo
+CIUDAD GUAYANA,America/Caracas
+COCHABAMBA,America/La_Paz
+DÍLI,Asia/Dili
+DUBLIN,Europe/Dublin
+HONG KONG,Asia/Hong_Kong
+MONTEVIDÉU,America/Montevideo
+MOSCOU,Europe/Moscow
+MUMBAI,Asia/Kolkata
+OTTAWA,America/Toronto
+QUITO,America/Guayaquil
+WASHINGTON,America/New_York
+WELLINGTON,Pacific/Auckland
+BELMOPAN,America/Belize
+NICOSIA,Asia/Nicosia
+GUATEMALA,America/Guatemala
+TIRANA,Europe/Tirane
+LUSACA,Africa/Lusaka
+BAREIN,Asia/Bahrain
+MARSELHA,Europe/Paris
+ACCRA,Africa/Accra
+BEIRUTE,Asia/Beirut
+BISSAU,Africa/Bissau
+BUCARESTE,Europe/Bucharest
+BUENOS AIRES,America/Argentina/Buenos_Aires
+CAIRO,Africa/Cairo
+DOHA,Asia/Qatar
+ESTOCOLMO,Europe/Stockholm
+GENEBRA,Europe/Zurich
+LIBREVILLE,Africa/Libreville
+LUANDA,Africa/Luanda
+MADRI,Europe/Madrid
+MILÃO,Europe/Rome
+MONTREAL,America/Toronto
+PEDRO JUAN CABALLERO,America/Asuncion
+PRAGA,Europe/Prague
+PRETÓRIA,Africa/Johannesburg
+SEUL,Asia/Seoul
+TEERÃ,Asia/Tehran
+TRÍPOLI,Africa/Tripoli
+XANGAI,Asia/Shanghai
+ZURIQUE,Europe/Zurich
+FARO,Europe/Lisbon
+DAR ES SALAAM,Africa/Dar_es_Salaam
+BRATISLAVA,Europe/Bratislava
+CASTRIES,America/St_Lucia
+KINGSTON-JAMAICA,America/Jamaica
+ARTIGAS,America/Montevideo
+BERLIM,Europe/Berlin
+SINGAPURA,Asia/Singapore
+CÓRDOBA,America/Argentina/Cordoba
+JACARTA,Asia/Jakarta
+KIEV,Europe/Kyiv
+KUAITE,Asia/Kuwait
+LA PAZ,America/La_Paz
+MANÁGUA,America/Managua
+NOVA YORK,America/New_York
+ROMA,Europe/Rome
+SANTIAGO,America/Santiago
+SÃO SALVADOR,America/El_Salvador
+SYDNEY,Australia/Sydney
+TAIPÉ,Asia/Taipei
+TEGUCIGALPA,America/Tegucigalpa
+TÓQUIO,Asia/Tokyo
+CANTÃO,Asia/Shanghai
+WINDHOEK,Africa/Windhoek
+COLOMBO,Asia/Colombo
+COTONOU,Africa/Porto-Novo
+ZAGREB,Europe/Zagreb
+ATLANTA,America/New_York
+LIUBLIANA,Europe/Ljubljana
+ISTAMBUL,Europe/Istanbul
+ABUJA,Africa/Lagos
+RIVERA,America/Montevideo
+ABU DHABI,Asia/Dubai
+ASSUNÇÃO,America/Asuncion
+BANGKOK,Asia/Bangkok
+BOGOTÁ,America/Bogota
+BOSTON,America/New_York
+CAIENA,America/Cayenne
+CHICAGO,America/Chicago
+COPENHAGUE,Europe/Copenhagen
+HELSINQUE,Europe/Helsinki
+MANILA,Asia/Manila
+MUNIQUE,Europe/Berlin
+NAGÓIA,Asia/Tokyo
+NAIRÓBI,Africa/Nairobi
+NOVA DELHI,Asia/Kolkata
+PORTO PRÍNCIPE,America/Port-au-Prince
+PORTO,Europe/Lisbon
+RIADE,Asia/Riyadh
+RIO BRANCO,America/Montevideo
+AMSTERDÃ,Europe/Amsterdam
+SALTO DEL GUAIRÁ,America/Asuncion
+TEL AVIV,Asia/Jerusalem
+TORONTO,America/Toronto
+HARTFORD,America/New_York
+MENDOZA,America/Argentina/Mendoza
+ASTANA,Asia/Almaty
+MALABO,Africa/Malabo
+UAGADUGU,Africa/Ouagadougou
+PUERTO IGUAZÚ,America/Argentina/Cordoba
+ADIS ABEBA,Africa/Addis_Ababa
+YANGON,Asia/Yangon
+EDIMBURGO,Europe/London
+ABIDJÃ,Africa/Abidjan
+CAMBERRA,Australia/Sydney
+DACAR,Africa/Dakar
+ENCARNACIÓN,America/Asuncion
+HANÓI,Asia/Ho_Chi_Minh
+HOUSTON,America/Chicago
+IQUITOS,America/Lima
+KINSHASA,Africa/Kinshasa
+PARAMARIBO,America/Paramaribo
+PASO LOS LIBRES,America/Argentina/Cordoba
+PORT OF SPAIN,America/Port_of_Spain
+SÃO DOMINGOS,America/Santo_Domingo
+SÃO FRANCISCO,America/Los_Angeles
+SÓFIA,Europe/Sofia
+VIENA,Europe/Vienna
+VANCOUVER,America/Vancouver
+BRAZZAVILLE,Africa/Brazzaville
+SÃO TOMÉ,Africa/Sao_Tome
+NASSAU,America/Nassau
+SANTA ELENA DE UAIRÉN,America/Caracas
+BAMAKO,Africa/Bamako
